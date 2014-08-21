@@ -1,0 +1,9 @@
+@font-face {
+    font-family: ocrastd;
+    src: url(../fonts/ocrastd.otf);
+}
+
+.marketing-message {
+    font-family: ocrastd;
+    text-align: center;
+}

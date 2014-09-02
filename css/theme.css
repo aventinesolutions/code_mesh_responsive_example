@@ -3,7 +3,13 @@
     src: url(../fonts/ocrastd.otf);
 }
 
+body {
+    background: url("../images/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
 .marketing-message {
     font-family: ocrastd;
     text-align: center;
 }
+

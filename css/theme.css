@@ -6,10 +6,23 @@
 body {
     background: url("../images/background.jpg") no-repeat center center fixed;
     background-size: cover;
+    font-family: 'helvetica';
+}
+
+.jumbotron {
+    background-color: rgba(255, 255, 255, 0.9);
+    max-width: 1200px;
+    margin: auto;
+    margin-bottom: 2em;
+    border-radius: 1em;
 }
 
 .marketing-message {
     font-family: ocrastd;
     text-align: center;
+}
+
+.speaker_name {
+    font-size: 1.75em;
 }
 

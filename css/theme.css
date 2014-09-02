@@ -30,3 +30,26 @@ body {
     font-size: 1.33333em;
 }
 
+.push {
+    margin-top: 7em;
+}
+
+.navbar {
+    font-size: 1.25em;
+    font-family: ocrastd;
+    background: rgb(6, 24, 38);
+    vertical-align: middle;
+}
+
+.navbar .nav > li > a {
+    color: rgb(253, 205, 172);
+    padding: 1.5em;
+}
+
+.navbar .nav > li > a:hover {
+    border-radius: 0.3em;
+    color: rgb(85, 85, 85);
+    background-color: rgb(231, 231, 231);
+}
+
+
